@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 102615240371bf744ade2b822d615332
+guid: f983890ea7864e14d9e0d09edbb1e4cc
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -23,6 +23,777 @@ TextureImporter:
   - first:
       213: -6690655230757528228
     second: ZombieMummy Walk_6
+  - first:
+      213: -6849918180103787357
+    second: ZombieMummy Walk_7
+  - first:
+      213: 7311195678061607682
+    second: ZombieMummy Walk_0
+  - first:
+      213: 2936112593885687656
+    second: ZombieMummy Walk_1
+  - first:
+      213: -1753496230192856880
+    second: ZombieMummy Walk_2
+  - first:
+      213: -3760080800318095049
+    second: ZombieMummy Walk_3
+  - first:
+      213: 8730936929397673817
+    second: ZombieMummy Walk_4
+  - first:
+      213: 5569372209345787159
+    second: ZombieMummy Walk_5
+  - first:
+      213: 5012832334917980660
+    second: ZombieMummy Walk_6
+  - first:
+      213: 6674213325486559690
+    second: ZombieMummy Walk_7
+  - first:
+      213: 5216755084204990234
+    second: ZombieMummy Walk_8
+  - first:
+      213: 3931910932662823737
+    second: ZombieMummy Walk_9
+  - first:
+      213: 8322455622524097312
+    second: ZombieMummy Walk_10
+  - first:
+      213: 4586630334399581595
+    second: ZombieMummy Walk_11
+  - first:
+      213: 5822510026748082993
+    second: ZombieMummy Walk_12
+  - first:
+      213: 7289424475368453256
+    second: ZombieMummy Walk_13
+  - first:
+      213: 5253457667228346587
+    second: ZombieMummy Walk_14
+  - first:
+      213: 3562892102090782177
+    second: ZombieMummy Walk_15
+  - first:
+      213: 5068241164866727787
+    second: ZombieMummy Walk_16
+  - first:
+      213: 2957339997592634067
+    second: ZombieMummy Walk_17
+  - first:
+      213: -5856390725916777675
+    second: ZombieMummy Walk_18
+  - first:
+      213: 6482568005066568670
+    second: ZombieMummy Walk_19
+  - first:
+      213: 860161146487666994
+    second: ZombieMummy Walk_20
+  - first:
+      213: -955343058646499076
+    second: ZombieMummy Walk_21
+  - first:
+      213: 8575562805226764300
+    second: ZombieMummy Walk_22
+  - first:
+      213: 7270092745084274486
+    second: ZombieMummy Walk_23
+  - first:
+      213: 1965150574316174915
+    second: ZombieMummy Walk_24
+  - first:
+      213: -1477928601974286048
+    second: ZombieMummy Walk_25
+  - first:
+      213: 3854772004727994059
+    second: ZombieMummy Walk_26
+  - first:
+      213: -1268844528782444759
+    second: ZombieMummy Walk_27
+  - first:
+      213: 4801151857533724626
+    second: ZombieMummy Walk_28
+  - first:
+      213: 1572190577887897638
+    second: ZombieMummy Walk_29
+  - first:
+      213: 2300558247931391025
+    second: ZombieMummy Walk_30
+  - first:
+      213: -4884844676947851145
+    second: ZombieMummy Walk_31
+  - first:
+      213: -4747319363454764800
+    second: ZombieMummy Walk_32
+  - first:
+      213: 7920661520775316342
+    second: ZombieMummy Walk_33
+  - first:
+      213: 3916793727252790091
+    second: ZombieMummy Walk_34
+  - first:
+      213: -1016359425027361619
+    second: ZombieMummy Walk_35
+  - first:
+      213: 5505298290938447870
+    second: ZombieMummy Walk_36
+  - first:
+      213: 1722155019942797346
+    second: ZombieMummy Walk_37
+  - first:
+      213: 7709732697055332178
+    second: ZombieMummy Walk_38
+  - first:
+      213: 5966212037206828493
+    second: ZombieMummy Walk_39
+  - first:
+      213: -464712536788546714
+    second: ZombieMummy Walk_40
+  - first:
+      213: -4918706798412866544
+    second: ZombieMummy Walk_41
+  - first:
+      213: -481356399770408716
+    second: ZombieMummy Walk_42
+  - first:
+      213: -1041409542247261269
+    second: ZombieMummy Walk_43
+  - first:
+      213: 2677652768988757771
+    second: ZombieMummy Walk_44
+  - first:
+      213: 3530944361176515012
+    second: ZombieMummy Walk_45
+  - first:
+      213: -2359772684573755474
+    second: ZombieMummy Walk_46
+  - first:
+      213: -4072314806105817454
+    second: ZombieMummy Walk_47
+  - first:
+      213: 5615005315679647670
+    second: ZombieMummy Walk_48
+  - first:
+      213: -5290148977249857432
+    second: ZombieMummy Walk_49
+  - first:
+      213: 3565255334281429776
+    second: ZombieMummy Walk_50
+  - first:
+      213: -4890885705249074516
+    second: ZombieMummy Walk_51
+  - first:
+      213: 632447419261988122
+    second: ZombieMummy Walk_52
+  - first:
+      213: 2450131972259210212
+    second: ZombieMummy Walk_53
+  - first:
+      213: -6777588428718510924
+    second: ZombieMummy Walk_54
+  - first:
+      213: 8051982360742215311
+    second: ZombieMummy Walk_55
+  - first:
+      213: -3407704228412181493
+    second: ZombieMummy Walk_56
+  - first:
+      213: -5219395006574092582
+    second: ZombieMummy Walk_57
+  - first:
+      213: 7568521091974986913
+    second: ZombieMummy Walk_58
+  - first:
+      213: 5727160478380861501
+    second: ZombieMummy Walk_59
+  - first:
+      213: -4040739957457826455
+    second: ZombieMummy Walk_60
+  - first:
+      213: 5213029140260220347
+    second: ZombieMummy Walk_61
+  - first:
+      213: -299663684101997445
+    second: ZombieMummy Walk_62
+  - first:
+      213: -6238179076623880886
+    second: ZombieMummy Walk_63
+  - first:
+      213: 5691861210321339002
+    second: ZombieMummy Walk_64
+  - first:
+      213: 8389394430716630919
+    second: ZombieMummy Walk_65
+  - first:
+      213: 4129956044046032609
+    second: ZombieMummy Walk_66
+  - first:
+      213: -5760306119227511842
+    second: ZombieMummy Walk_67
+  - first:
+      213: 7295351371762025477
+    second: ZombieMummy Walk_68
+  - first:
+      213: 1962665857093349152
+    second: ZombieMummy Walk_69
+  - first:
+      213: 5539594045914556557
+    second: ZombieMummy Walk_70
+  - first:
+      213: 6810839271972763768
+    second: ZombieMummy Walk_71
+  - first:
+      213: -2740623278529154684
+    second: ZombieMummy Walk_72
+  - first:
+      213: 7989179012161599805
+    second: ZombieMummy Walk_73
+  - first:
+      213: -9200619161101933133
+    second: ZombieMummy Walk_74
+  - first:
+      213: -2763879331808840874
+    second: ZombieMummy Walk_75
+  - first:
+      213: -7941208093557373370
+    second: ZombieMummy Walk_76
+  - first:
+      213: -2883876311035957983
+    second: ZombieMummy Walk_77
+  - first:
+      213: 5338556314682973920
+    second: ZombieMummy Walk_78
+  - first:
+      213: 2461521312192493283
+    second: ZombieMummy Walk_79
+  - first:
+      213: -7237973152530425305
+    second: ZombieMummy Walk_80
+  - first:
+      213: 4439540171670975974
+    second: ZombieMummy Walk_81
+  - first:
+      213: 6367971802688907799
+    second: ZombieMummy Walk_82
+  - first:
+      213: 1675339805189023121
+    second: ZombieMummy Walk_83
+  - first:
+      213: 4681713734126669110
+    second: ZombieMummy Walk_84
+  - first:
+      213: 3582869142302926992
+    second: ZombieMummy Walk_85
+  - first:
+      213: 5673591599800855088
+    second: ZombieMummy Walk_86
+  - first:
+      213: -6368713502787997715
+    second: ZombieMummy Walk_87
+  - first:
+      213: 8168781343455799117
+    second: ZombieMummy Walk_88
+  - first:
+      213: 5024831327068173345
+    second: ZombieMummy Walk_89
+  - first:
+      213: -2644522175368853217
+    second: ZombieMummy Walk_90
+  - first:
+      213: 1981608326780069532
+    second: ZombieMummy Walk_91
+  - first:
+      213: -9006968116782471262
+    second: ZombieMummy Walk_92
+  - first:
+      213: -4192660455143188499
+    second: ZombieMummy Walk_93
+  - first:
+      213: 5584409206114098558
+    second: ZombieMummy Walk_94
+  - first:
+      213: 1536477079215644979
+    second: ZombieMummy Walk_95
+  - first:
+      213: 8786094606845231248
+    second: ZombieMummy Walk_96
+  - first:
+      213: -6378662879353754414
+    second: ZombieMummy Walk_97
+  - first:
+      213: -6561499230110127594
+    second: ZombieMummy Walk_98
+  - first:
+      213: 3662068927926768873
+    second: ZombieMummy Walk_99
+  - first:
+      213: -7309903907193444847
+    second: ZombieMummy Walk_100
+  - first:
+      213: -647313587652751446
+    second: ZombieMummy Walk_101
+  - first:
+      213: -7299355671992695805
+    second: ZombieMummy Walk_102
+  - first:
+      213: -7125091444902300206
+    second: ZombieMummy Walk_103
+  - first:
+      213: -8369088224523635279
+    second: ZombieMummy Walk_104
+  - first:
+      213: 2379491142264498661
+    second: ZombieMummy Walk_105
+  - first:
+      213: -5439475245484148023
+    second: ZombieMummy Walk_106
+  - first:
+      213: 165244736881755565
+    second: ZombieMummy Walk_107
+  - first:
+      213: -1691645936984630694
+    second: ZombieMummy Walk_108
+  - first:
+      213: -5722061591808214563
+    second: ZombieMummy Walk_109
+  - first:
+      213: 5974683983442280130
+    second: ZombieMummy Walk_110
+  - first:
+      213: 2202812338376192018
+    second: ZombieMummy Walk_111
+  - first:
+      213: 1873846034810185238
+    second: ZombieMummy Walk_112
+  - first:
+      213: 4616445940950811624
+    second: ZombieMummy Walk_113
+  - first:
+      213: -2206443441805563193
+    second: ZombieMummy Walk_114
+  - first:
+      213: 2039562099530390685
+    second: ZombieMummy Walk_115
+  - first:
+      213: 1230132426767739501
+    second: ZombieMummy Walk_116
+  - first:
+      213: 6021314852283592595
+    second: ZombieMummy Walk_117
+  - first:
+      213: -6539857249728364911
+    second: ZombieMummy Walk_118
+  - first:
+      213: 3125822456460172490
+    second: ZombieMummy Walk_119
+  - first:
+      213: -8071327675538709533
+    second: ZombieMummy Walk_120
+  - first:
+      213: 2195869558438046458
+    second: ZombieMummy Walk_121
+  - first:
+      213: -6163949621520957716
+    second: ZombieMummy Walk_122
+  - first:
+      213: 5766639258870693845
+    second: ZombieMummy Walk_123
+  - first:
+      213: 4048208114515911568
+    second: ZombieMummy Walk_124
+  - first:
+      213: -5332768744144557457
+    second: ZombieMummy Walk_125
+  - first:
+      213: -6795474920246672392
+    second: ZombieMummy Walk_126
+  - first:
+      213: -8925160560681853410
+    second: ZombieMummy Walk_127
+  - first:
+      213: -6629868692527157359
+    second: ZombieMummy Walk_128
+  - first:
+      213: -567933555903436373
+    second: ZombieMummy Walk_129
+  - first:
+      213: 2905570452576506181
+    second: ZombieMummy Walk_130
+  - first:
+      213: 5787323956719227076
+    second: ZombieMummy Walk_131
+  - first:
+      213: -3590468869897603822
+    second: ZombieMummy Walk_132
+  - first:
+      213: -2908320858171803156
+    second: ZombieMummy Walk_133
+  - first:
+      213: 5573531635774411774
+    second: ZombieMummy Walk_134
+  - first:
+      213: -8268994433540277286
+    second: ZombieMummy Walk_135
+  - first:
+      213: -4336277783769586726
+    second: ZombieMummy Walk_136
+  - first:
+      213: -1688936517332124816
+    second: ZombieMummy Walk_137
+  - first:
+      213: -4714709630996331720
+    second: ZombieMummy Walk_138
+  - first:
+      213: -5974752141043553592
+    second: ZombieMummy Walk_139
+  - first:
+      213: 708290039369550111
+    second: ZombieMummy Walk_140
+  - first:
+      213: 2724988460034982206
+    second: ZombieMummy Walk_141
+  - first:
+      213: 235049712036408858
+    second: ZombieMummy Walk_142
+  - first:
+      213: -4771861252859240479
+    second: ZombieMummy Walk_143
+  - first:
+      213: -9174720517415858592
+    second: ZombieMummy Walk_144
+  - first:
+      213: 2311029025727967306
+    second: ZombieMummy Walk_145
+  - first:
+      213: 5677799861200587461
+    second: ZombieMummy Walk_146
+  - first:
+      213: -2663979562136949695
+    second: ZombieMummy Walk_147
+  - first:
+      213: 7257402370529697764
+    second: ZombieMummy Walk_148
+  - first:
+      213: -1013920386503152088
+    second: ZombieMummy Walk_149
+  - first:
+      213: 3163460462751015618
+    second: ZombieMummy Walk_150
+  - first:
+      213: 7746397103267995309
+    second: ZombieMummy Walk_151
+  - first:
+      213: 1038105701904859394
+    second: ZombieMummy Walk_152
+  - first:
+      213: -1242202603060451847
+    second: ZombieMummy Walk_153
+  - first:
+      213: -1802391753463392442
+    second: ZombieMummy Walk_154
+  - first:
+      213: 4074146591648389486
+    second: ZombieMummy Walk_155
+  - first:
+      213: -5816563909486637426
+    second: ZombieMummy Walk_156
+  - first:
+      213: 1819918394398809495
+    second: ZombieMummy Walk_157
+  - first:
+      213: -4886825784537419916
+    second: ZombieMummy Walk_158
+  - first:
+      213: 1071139353640100900
+    second: ZombieMummy Walk_159
+  - first:
+      213: 5929634686125026206
+    second: ZombieMummy Walk_160
+  - first:
+      213: -1494426202312532568
+    second: ZombieMummy Walk_161
+  - first:
+      213: -4981157209960901670
+    second: ZombieMummy Walk_162
+  - first:
+      213: -9077446102271318810
+    second: ZombieMummy Walk_163
+  - first:
+      213: -3830974278386219285
+    second: ZombieMummy Walk_164
+  - first:
+      213: -213755511439529925
+    second: ZombieMummy Walk_165
+  - first:
+      213: -7534696084882137281
+    second: ZombieMummy Walk_166
+  - first:
+      213: 8488378737953724919
+    second: ZombieMummy Walk_167
+  - first:
+      213: -1466178533129726617
+    second: ZombieMummy Walk_168
+  - first:
+      213: 5441306759213591932
+    second: ZombieMummy Walk_169
+  - first:
+      213: -644665062078079661
+    second: ZombieMummy Walk_170
+  - first:
+      213: -620950083730470246
+    second: ZombieMummy Walk_171
+  - first:
+      213: 4066514037857425331
+    second: ZombieMummy Walk_172
+  - first:
+      213: -2925292976160077832
+    second: ZombieMummy Walk_173
+  - first:
+      213: 8401240822903566311
+    second: ZombieMummy Walk_174
+  - first:
+      213: -4462474005303539962
+    second: ZombieMummy Walk_175
+  - first:
+      213: -1858848812170651691
+    second: ZombieMummy Walk_176
+  - first:
+      213: -1332997873605616772
+    second: ZombieMummy Walk_177
+  - first:
+      213: 2246779779203303119
+    second: ZombieMummy Walk_178
+  - first:
+      213: -6745897102890728362
+    second: ZombieMummy Walk_179
+  - first:
+      213: 6743714420771505123
+    second: ZombieMummy Walk_180
+  - first:
+      213: 8155265833328732289
+    second: ZombieMummy Walk_181
+  - first:
+      213: -5969047973626878731
+    second: ZombieMummy Walk_182
+  - first:
+      213: -4225901243907931858
+    second: ZombieMummy Walk_183
+  - first:
+      213: -6086252030570957684
+    second: ZombieMummy Walk_184
+  - first:
+      213: -3671218414809380148
+    second: ZombieMummy Walk_185
+  - first:
+      213: 2467438446196820639
+    second: ZombieMummy Walk_186
+  - first:
+      213: 355266556577803522
+    second: ZombieMummy Walk_187
+  - first:
+      213: -5367647753161166687
+    second: ZombieMummy Walk_188
+  - first:
+      213: -4123176524377313169
+    second: ZombieMummy Walk_189
+  - first:
+      213: 8173470551705183675
+    second: ZombieMummy Walk_190
+  - first:
+      213: -7976966653905453122
+    second: ZombieMummy Walk_191
+  - first:
+      213: 218493726242160580
+    second: ZombieMummy Walk_192
+  - first:
+      213: 6522248994703138456
+    second: ZombieMummy Walk_193
+  - first:
+      213: -6277725579923426917
+    second: ZombieMummy Walk_194
+  - first:
+      213: -5994816029783524626
+    second: ZombieMummy Walk_195
+  - first:
+      213: 7728897015256994131
+    second: ZombieMummy Walk_196
+  - first:
+      213: 8994364659591944863
+    second: ZombieMummy Walk_197
+  - first:
+      213: -7978552485589993891
+    second: ZombieMummy Walk_198
+  - first:
+      213: -5752428464272338
+    second: ZombieMummy Walk_199
+  - first:
+      213: 6424485197236226044
+    second: ZombieMummy Walk_200
+  - first:
+      213: -4475326140644461676
+    second: ZombieMummy Walk_201
+  - first:
+      213: 3665238785265534040
+    second: ZombieMummy Walk_202
+  - first:
+      213: -8312783767417690334
+    second: ZombieMummy Walk_203
+  - first:
+      213: -635679986537861983
+    second: ZombieMummy Walk_204
+  - first:
+      213: 3295409209789897270
+    second: ZombieMummy Walk_205
+  - first:
+      213: -1520707124787130738
+    second: ZombieMummy Walk_206
+  - first:
+      213: -4092233223788443076
+    second: ZombieMummy Walk_207
+  - first:
+      213: 7770596478725622986
+    second: ZombieMummy Walk_208
+  - first:
+      213: -5645424671474213608
+    second: ZombieMummy Walk_209
+  - first:
+      213: -392801165725472563
+    second: ZombieMummy Walk_210
+  - first:
+      213: -1328188437685758811
+    second: ZombieMummy Walk_211
+  - first:
+      213: 2394843928768303963
+    second: ZombieMummy Walk_212
+  - first:
+      213: 243601749269014731
+    second: ZombieMummy Walk_213
+  - first:
+      213: 7912139221930168645
+    second: ZombieMummy Walk_214
+  - first:
+      213: -1839312772980550883
+    second: ZombieMummy Walk_215
+  - first:
+      213: 2792821400500317469
+    second: ZombieMummy Walk_216
+  - first:
+      213: -9145606060686267820
+    second: ZombieMummy Walk_217
+  - first:
+      213: 5746688738146613654
+    second: ZombieMummy Walk_218
+  - first:
+      213: 353694708712217526
+    second: ZombieMummy Walk_219
+  - first:
+      213: 5421814036423145381
+    second: ZombieMummy Walk_220
+  - first:
+      213: 5258500929394928306
+    second: ZombieMummy Walk_221
+  - first:
+      213: -8146559601982101472
+    second: ZombieMummy Walk_222
+  - first:
+      213: 6779814794267841436
+    second: ZombieMummy Walk_223
+  - first:
+      213: -7617152190574594901
+    second: ZombieMummy Walk_224
+  - first:
+      213: 5674449298662040449
+    second: ZombieMummy Walk_225
+  - first:
+      213: -4971868703125994342
+    second: ZombieMummy Walk_226
+  - first:
+      213: 6108601394620204838
+    second: ZombieMummy Walk_227
+  - first:
+      213: -3047085729910290794
+    second: ZombieMummy Walk_228
+  - first:
+      213: -1902008439948401203
+    second: ZombieMummy Walk_229
+  - first:
+      213: -57265206497044010
+    second: ZombieMummy Walk_230
+  - first:
+      213: -2418747726643929285
+    second: ZombieMummy Walk_231
+  - first:
+      213: -6118580726851905468
+    second: ZombieMummy Walk_232
+  - first:
+      213: 7788749687669669669
+    second: ZombieMummy Walk_233
+  - first:
+      213: 7870661776852076682
+    second: ZombieMummy Walk_234
+  - first:
+      213: 4411917064421293706
+    second: ZombieMummy Walk_235
+  - first:
+      213: 5060953294420809195
+    second: ZombieMummy Walk_236
+  - first:
+      213: -6703652500389239131
+    second: ZombieMummy Walk_237
+  - first:
+      213: 364773806404098193
+    second: ZombieMummy Walk_238
+  - first:
+      213: -9125144163474331446
+    second: ZombieMummy Walk_239
+  - first:
+      213: 4804667712030523967
+    second: ZombieMummy Walk_240
+  - first:
+      213: -3815913131725026087
+    second: ZombieMummy Walk_241
+  - first:
+      213: 2347724448125113494
+    second: ZombieMummy Walk_242
+  - first:
+      213: 3312951493137398544
+    second: ZombieMummy Walk_243
+  - first:
+      213: -2014623228258687766
+    second: ZombieMummy Walk_244
+  - first:
+      213: 1923881715627466034
+    second: ZombieMummy Walk_245
+  - first:
+      213: -2208005055449353160
+    second: ZombieMummy Walk_246
+  - first:
+      213: -8739253962578973760
+    second: ZombieMummy Walk_247
+  - first:
+      213: -1234390797631581192
+    second: ZombieMummy Walk_248
+  - first:
+      213: 7780822294397073016
+    second: ZombieMummy Walk_249
+  - first:
+      213: -7633308624449367072
+    second: ZombieMummy Walk_250
+  - first:
+      213: -6391778830691703189
+    second: ZombieMummy Walk_251
+  - first:
+      213: -839607028877737432
+    second: ZombieMummy Walk_252
+  - first:
+      213: -6687732007085754108
+    second: ZombieMummy Walk_253
+  - first:
+      213: -6812129474725023708
+    second: ZombieMummy Walk_254
+  - first:
+      213: -6282874103566248288
+    second: ZombieMummy Walk_255
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -66,7 +837,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 250
+  spritePixelsToUnits: 1024
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -149,8 +920,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 572
-        height: 887
+        width: 555
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,8 +929,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 714fab68a54ff3640800000000000000
-      internalID: 5062033175832359959
+      spriteID: 20bbb3a9bb5967560800000000000000
+      internalID: 7311195678061607682
       vertices: []
       indices: 
       edges: []
@@ -168,10 +939,10 @@ TextureImporter:
       name: ZombieMummy Walk_1
       rect:
         serializedVersion: 2
-        x: 1083
+        x: 1109
         y: 0
-        width: 584
-        height: 887
+        width: 549
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,8 +950,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 856f8e8da6d5c0f30800000000000000
-      internalID: 4543108837597050456
+      spriteID: 86f6b1319da2fb820800000000000000
+      internalID: 2936112593885687656
       vertices: []
       indices: 
       edges: []
@@ -189,10 +960,10 @@ TextureImporter:
       name: ZombieMummy Walk_2
       rect:
         serializedVersion: 2
-        x: 2147
+        x: 2203
         y: 0
-        width: 625
-        height: 887
+        width: 582
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,8 +971,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e5b6cac4f3f834b0800000000000000
-      internalID: -5460346315487136282
+      spriteID: 0d04e5418745aa7e0800000000000000
+      internalID: -1753496230192856880
       vertices: []
       indices: 
       edges: []
@@ -210,10 +981,10 @@ TextureImporter:
       name: ZombieMummy Walk_3
       rect:
         serializedVersion: 2
-        x: 3375
+        x: 3253
         y: 0
-        width: 577
-        height: 887
+        width: 641
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,8 +992,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e37a72dd4d4e63480800000000000000
-      internalID: -8919690409066125506
+      spriteID: 73106421f6281dbc0800000000000000
+      internalID: -3760080800318095049
       vertices: []
       indices: 
       edges: []
@@ -231,10 +1002,10 @@ TextureImporter:
       name: ZombieMummy Walk_4
       rect:
         serializedVersion: 2
-        x: 4456
+        x: 4409
         y: 0
-        width: 562
-        height: 887
+        width: 585
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,8 +1013,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d86c616205bbf57c0800000000000000
-      internalID: -4080336784463575411
+      spriteID: 95f8619f0e48a2970800000000000000
+      internalID: 8730936929397673817
       vertices: []
       indices: 
       edges: []
@@ -252,10 +1023,10 @@ TextureImporter:
       name: ZombieMummy Walk_5
       rect:
         serializedVersion: 2
-        x: 5639
+        x: 5685
         y: 0
-        width: 616
-        height: 887
+        width: 552
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,8 +1034,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb1eb352050cb4fe0800000000000000
-      internalID: -1203657024936877637
+      spriteID: 715fcff34826a4d40800000000000000
+      internalID: 5569372209345787159
       vertices: []
       indices: 
       edges: []
@@ -273,10 +1044,10 @@ TextureImporter:
       name: ZombieMummy Walk_6
       rect:
         serializedVersion: 2
-        x: 6563
+        x: 6692
         y: 0
-        width: 693
-        height: 887
+        width: 560
+        height: 871
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,8 +1055,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5d961824840623a0800000000000000
-      internalID: -6690655230757528228
+      spriteID: 4f1d0611378219540800000000000000
+      internalID: 5012832334917980660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieMummy Walk_7
+      rect:
+        serializedVersion: 2
+        x: 7848
+        y: 0
+        width: 547
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac11ec478a19f9c50800000000000000
+      internalID: 6674213325486559690
       vertices: []
       indices: 
       edges: []

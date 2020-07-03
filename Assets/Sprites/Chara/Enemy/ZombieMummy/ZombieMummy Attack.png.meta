@@ -1,61 +1,49 @@
 fileFormatVersion: 2
-guid: 2353ec74f9b6b1b4db1472cea88b454f
+guid: 102615240371bf744ade2b822d615332
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3206377075072197300
-    second: ZombieBoy Walk_0
+      213: 5062033175832359959
+    second: ZombieMummy Walk_0
   - first:
-      213: -518145295652021017
-    second: ZombieBoy Walk_1
+      213: 4543108837597050456
+    second: ZombieMummy Walk_1
   - first:
-      213: -8573680097617346412
-    second: ZombieBoy Walk_2
+      213: -5460346315487136282
+    second: ZombieMummy Walk_2
   - first:
-      213: -391640499100378968
-    second: ZombieBoy Walk_3
+      213: -8919690409066125506
+    second: ZombieMummy Walk_3
   - first:
-      213: -9199813249160114629
-    second: ZombieBoy Walk_4
+      213: -4080336784463575411
+    second: ZombieMummy Walk_4
   - first:
-      213: -5543931766335008660
-    second: ZombieBoy Walk_5
+      213: -1203657024936877637
+    second: ZombieMummy Walk_5
   - first:
-      213: 6807464635202158306
-    second: ZombieBoy Walk_6
+      213: -6690655230757528228
+    second: ZombieMummy Walk_6
   - first:
-      213: -4767843471592910405
-    second: ZombieBoy Walk_7
+      213: 7850227495793962271
+    second: ZombieMummy Attack_0
   - first:
-      213: -4913794415002062515
-    second: ZombieBoy Walk_8
+      213: -5692076953253772233
+    second: ZombieMummy Attack_1
   - first:
-      213: -612795409421150342
-    second: ZombieBoy Walk_0
+      213: -7475095581285994170
+    second: ZombieMummy Attack_2
   - first:
-      213: -2792967770941225503
-    second: ZombieBoy Walk_1
+      213: 4865350647944409503
+    second: ZombieMummy Attack_3
   - first:
-      213: -4668926544171051310
-    second: ZombieBoy Walk_2
+      213: -1910646910501885817
+    second: ZombieMummy Attack_4
   - first:
-      213: -2338939144761101570
-    second: ZombieBoy Walk_3
+      213: 4443511551520612371
+    second: ZombieMummy Attack_5
   - first:
-      213: 4494218810200020212
-    second: ZombieBoy Walk_4
-  - first:
-      213: 8577124714744178186
-    second: ZombieBoy Walk_5
-  - first:
-      213: -4833188253038690640
-    second: ZombieBoy Walk_7
-  - first:
-      213: 6793873166969620229
-    second: ZombieBoy Walk_8
-  - first:
-      213: 6055544924818740790
-    second: ZombieBoy Walk_17
+      213: 8554454457748495716
+    second: ZombieMummy Attack_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -99,9 +87,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 2048
+  spritePixelsToUnits: 1024
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -177,34 +165,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ZombieBoy Walk_6
-      rect:
-        serializedVersion: 2
-        x: 10753
-        y: 0
-        width: 1128
-        height: 1705
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2ee324aa409f87e50800000000000000
-      internalID: 6807464635202158306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ZombieBoy Walk_0
+      name: ZombieMummy Attack_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1108
-        height: 1650
+        width: 572
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a77567562d9ee77f0800000000000000
-      internalID: -612795409421150342
+      spriteID: f1dadcca05c91fc60800000000000000
+      internalID: 7850227495793962271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ZombieBoy Walk_1
+      name: ZombieMummy Attack_1
       rect:
         serializedVersion: 2
-        x: 1618
+        x: 1083
         y: 0
-        width: 973
-        height: 1662
+        width: 584
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e50fef2c926d39d0800000000000000
-      internalID: -2792967770941225503
+      spriteID: 7340f1f3b2ea101b0800000000000000
+      internalID: -5692076953253772233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ZombieBoy Walk_2
+      name: ZombieMummy Attack_2
       rect:
         serializedVersion: 2
-        x: 3462
+        x: 2147
         y: 0
-        width: 964
-        height: 1686
+        width: 625
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -254,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d6da4c8b04a43fb0800000000000000
-      internalID: -4668926544171051310
+      spriteID: 6413b5f6c20234890800000000000000
+      internalID: -7475095581285994170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ZombieBoy Walk_3
+      name: ZombieMummy Attack_3
       rect:
         serializedVersion: 2
-        x: 5216
+        x: 3375
         y: 0
-        width: 994
-        height: 1682
+        width: 577
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef232457d3b6a8fd0800000000000000
-      internalID: -2338939144761101570
+      spriteID: f917176f2a2358340800000000000000
+      internalID: 4865350647944409503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ZombieBoy Walk_4
+      name: ZombieMummy Attack_4
       rect:
         serializedVersion: 2
-        x: 6927
+        x: 4456
         y: 0
-        width: 1024
-        height: 1642
+        width: 562
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f4d9dc423cae5e30800000000000000
-      internalID: 4494218810200020212
+      spriteID: 788665802c40c75e0800000000000000
+      internalID: -1910646910501885817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ZombieBoy Walk_5
+      name: ZombieMummy Attack_5
       rect:
         serializedVersion: 2
-        x: 8814
+        x: 5639
         y: 0
-        width: 1084
-        height: 1670
+        width: 616
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a06ec880c71180770800000000000000
-      internalID: 8577124714744178186
+      spriteID: 3102bbf96368aad30800000000000000
+      internalID: 4443511551520612371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ZombieBoy Walk_7
+      name: ZombieMummy Attack_6
       rect:
         serializedVersion: 2
-        x: 12375
+        x: 6563
         y: 0
-        width: 1120
-        height: 1679
+        width: 693
+        height: 887
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,29 +305,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0beb90524e01decb0800000000000000
-      internalID: -4833188253038690640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ZombieBoy Walk_8
-      rect:
-        serializedVersion: 2
-        x: 13990
-        y: 0
-        width: 1109
-        height: 1650
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 507484e56afa84e50800000000000000
-      internalID: 6793873166969620229
+      spriteID: 46d1b51810787b670800000000000000
+      internalID: 8554454457748495716
       vertices: []
       indices: 
       edges: []
