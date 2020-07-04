@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ZombieMummy Spawn
+  m_Name: ZombieBoy Die
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,34 +20,31 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -4235933925658864164, guid: fb135bc175c717f4cbf81a8443b2e1bf,
+      value: {fileID: 840047620989054939, guid: 8dda1bbe5c48fdd458f4b013673eddab,
         type: 3}
-    - time: 0.125
-      value: {fileID: -243817148443025551, guid: fb135bc175c717f4cbf81a8443b2e1bf,
+    - time: 0.1
+      value: {fileID: -3595048903585474196, guid: 8dda1bbe5c48fdd458f4b013673eddab,
         type: 3}
-    - time: 0.25
-      value: {fileID: -7290217429506254392, guid: fb135bc175c717f4cbf81a8443b2e1bf,
+    - time: 0.2
+      value: {fileID: 133558461488991393, guid: 8dda1bbe5c48fdd458f4b013673eddab,
         type: 3}
-    - time: 0.375
-      value: {fileID: -6544418877515429529, guid: fb135bc175c717f4cbf81a8443b2e1bf,
+    - time: 0.3
+      value: {fileID: 6256201617647854370, guid: 8dda1bbe5c48fdd458f4b013673eddab,
+        type: 3}
+    - time: 0.4
+      value: {fileID: -2540203506412910767, guid: 8dda1bbe5c48fdd458f4b013673eddab,
         type: 3}
     - time: 0.5
-      value: {fileID: -5638020869483548017, guid: fb135bc175c717f4cbf81a8443b2e1bf,
+      value: {fileID: -5279850443745729966, guid: 8dda1bbe5c48fdd458f4b013673eddab,
         type: 3}
-    - time: 0.625
-      value: {fileID: 4433623186394526560, guid: fb135bc175c717f4cbf81a8443b2e1bf,
-        type: 3}
-    - time: 0.75
-      value: {fileID: -2062752646197391777, guid: fb135bc175c717f4cbf81a8443b2e1bf,
-        type: 3}
-    - time: 0.875
-      value: {fileID: 912303443988416635, guid: fb135bc175c717f4cbf81a8443b2e1bf,
+    - time: 0.6
+      value: {fileID: -2868714466674279670, guid: 8dda1bbe5c48fdd458f4b013673eddab,
         type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 8
+  m_SampleRate: 10
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -62,20 +59,19 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -4235933925658864164, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: -243817148443025551, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: -7290217429506254392, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: -6544418877515429529, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: -5638020869483548017, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: 4433623186394526560, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: -2062752646197391777, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
-    - {fileID: 912303443988416635, guid: fb135bc175c717f4cbf81a8443b2e1bf, type: 3}
+    - {fileID: 840047620989054939, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
+    - {fileID: -3595048903585474196, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
+    - {fileID: 133558461488991393, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
+    - {fileID: 6256201617647854370, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
+    - {fileID: -2540203506412910767, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
+    - {fileID: -5279850443745729966, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
+    - {fileID: -2868714466674279670, guid: 8dda1bbe5c48fdd458f4b013673eddab, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 1
+    m_StopTime: 0.70000005
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
