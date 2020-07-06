@@ -5,6 +5,7 @@ using UnityEngine;
 public class DefenderButton : MonoBehaviour
 {
 
+    [SerializeField] Defender defenderPrefab;
     private void OnMouseDown()
     {
         var buttons = FindObjectsOfType<DefenderButton>();
@@ -13,6 +14,7 @@ public class DefenderButton : MonoBehaviour
             button.GetComponent<SpriteRenderer>().color = new Color32(49, 49, 49, 255);
         }
             GetComponent<SpriteRenderer>().color = new Color(255, 255, 255, 255);
+            FindObjectOfType<DefenderSpawner>().SetSelectedDefender(defenderPrefab);
     }
 
 }
