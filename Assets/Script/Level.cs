@@ -42,6 +42,11 @@ public class Level : MonoBehaviour
     {   
        
     }
+
+    public void LoadYouLoose()
+    {
+        SceneManager.LoadScene("Lose Screen");
+    }
     public void QuitGame()
     {
         Application.Quit();
